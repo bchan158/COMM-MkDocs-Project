@@ -2,6 +2,8 @@
 
 Welcome to the **Git & GitHub Setup Guide**! This documentation is designed to help you get up and running with **Git** and **GitHub**, whether you're a beginner or looking to refine your workflow.
 
+## 💪 Skill Level: Beginner
+
 ## 📖 What You'll Learn
 
 By following this guide, you will:
@@ -37,4 +39,4 @@ This documentation is structured as follows:
 
 Proceed to the next section to learn more about **Git and Version Control**.
 
-➡️ **[Next: Introduction to Git](1-intro.md)**
+➡️ **[Next: Introduction to Git](set-1-intro-git-github.md)**

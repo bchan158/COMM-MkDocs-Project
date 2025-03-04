@@ -1,5 +1,5 @@
 site_name: Getting Started with Git and GitHub
-site_url: ""
+site_url: "https://bchan158.github.io/COMM-MkDocs-Project/"
 theme:
   name: material
   font:
@@ -11,20 +11,31 @@ theme:
     - navigation.footer
   palette:
     # Dark Mode
-    - scheme: slate
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
       toggle:
         icon: material/weather-sunny
         name: Dark mode
       primary: deep purple
-      accent: green
+      accent: yellow
 
     # Light Mode
-    - scheme: default
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
       toggle:
         icon: material/weather-night
         name: Light mode
       primary: deep orange
       accent: blue
+nav:
+  - Home: index.md
+  - Introduction to Git: set-1-intro-git.md
+  - Installation: set-2-installation.md
+  - Basic Commands: set-3-basic-commands.md
+  - Introduction to GitHub: set-4-intro-github.md
+  - GitHub Setup: set-5-github-setup.md
+  - Troubleshooting: troubleshooting.md
+  - Glossary: glossary.md
 
 markdown_extensions:
   - attr_list
@@ -46,5 +57,7 @@ markdown_extensions:
       alternate_style: true
   - admonition
   - pymdownx.details
+  - tables
 
-copyright: Copyright &copy; 2024 James Willett
+extra_css:
+  - assets/style.css

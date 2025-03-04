@@ -1,0 +1,9 @@
+/* Light Mode */
+[data-md-color-scheme="default"] h2 {
+  color: #ff6e42;
+}
+
+/* Dark Mode */
+[data-md-color-scheme="slate"] h2 {
+  color: #7e56c2;
+}

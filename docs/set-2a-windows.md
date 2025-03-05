@@ -1,4 +1,4 @@
-# Installing Git on Windows
+# How to Install and Set Up Git on Windows
 
 **Step 1: Download Git for Windows**
 

@@ -9,6 +9,7 @@ theme:
     logo: fontawesome/solid/code-branch
   features:
     - navigation.footer
+    - content.code.copy
   palette:
     # Dark Mode
     - media: "(prefers-color-scheme: dark)"

@@ -32,11 +32,11 @@ brew install git
 git --version
 ```
 
-The version number should start with 2:
+!!! success "Success!"
 
-```bash title="Bash"
-git version 2.x.x
-```
+    ```bash title="Bash"
+    git version 2.x.x
+    ```
 
 ## Step 2: Configure Git
 
@@ -64,9 +64,9 @@ git config --global user.email "your-email@example.com"
 git config --list
 ```
 
-You should see something like this:
+!!! success "Success: You should see something like this"
 
-```bash title="Bash"
-user.name=Your Name
-user.email=your-email@example.com
-```
+    ```bash title="Bash"
+    user.name=John Doe
+    user.email=john.doe@email.com
+    ```

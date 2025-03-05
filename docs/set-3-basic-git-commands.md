@@ -180,7 +180,7 @@ git branch -D <branch_name>
 
 !!! danger "Danger!"
 
-    Since -D doesn’t prompt for confirmation or check merge status, you might accidentally delete a branch you didn’t intend to. If you mistype the branch name or delete the wrong branch, you could lose progress.
+    Since **-D** doesn’t prompt for confirmation or check merge status, you might **accidentally delete a branch** you didn’t intend to. If you mistype the branch name or delete the wrong branch, you could lose progress.
 
 ## Working with Remote Repositories
 
@@ -194,7 +194,7 @@ git remote -v
 
 ---
 
-- Adds a remote repository named “origin.”
+- Adds a remote repository named “origin”
 
 ```sh
 git remote add origin <repository_url>

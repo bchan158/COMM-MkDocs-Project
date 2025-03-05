@@ -36,11 +36,11 @@ Git is a widely used version control system that allows developers to track chan
     git --version
     ```
 
-    The version number should start with 2:
+    !!! success "Success!"
 
-    ```bash title="Bash"
-    git version 2.x.x
-    ```
+        ```bash title="Bash"
+        git version 2.x.x
+        ```
 
 === "Fedora"
 
@@ -58,11 +58,11 @@ Git is a widely used version control system that allows developers to track chan
     git --version
     ```
 
-    The version number should start with 2:
+    !!! success "Success!"
 
-    ```bash title="Bash"
-    git version 2.x.x
-    ```
+        ```bash title="Bash"
+        git version 2.x.x
+        ```
 
 === "Arch Linux"
 
@@ -80,11 +80,11 @@ Git is a widely used version control system that allows developers to track chan
     git --version
     ```
 
-    The version number should start with 2:
+    !!! success "Success!"
 
-    ```bash title="Bash"
-    git version 2.x.x
-    ```
+        ```bash title="Bash"
+        git version 2.x.x
+        ```
 
 === "CentOS / RHEL"
 
@@ -102,11 +102,11 @@ Git is a widely used version control system that allows developers to track chan
     git --version
     ```
 
-    The version number should start with 2:
+    !!! success "Success!"
 
-    ```bash title="Bash"
-    git version 2.x.x
-    ```
+        ```bash title="Bash"
+        git version 2.x.x
+        ```
 
 === "OpenSUSE"
 
@@ -124,11 +124,11 @@ Git is a widely used version control system that allows developers to track chan
     git --version
     ```
 
-    The version number should start with 2:
+    !!! success "Success!"
 
-    ```bash title="Bash"
-    git version 2.x.x
-    ```
+        ```bash title="Bash"
+        git version 2.x.x
+        ```
 
 ## Step 2: Configure Git
 
@@ -156,9 +156,9 @@ git config --global user.email "your-email@example.com"
 git config --list
 ```
 
-This should display:
+!!! success "Success: You should see something like this"
 
-```bash title="Bash"
-user.name=Your Name
-user.email=your-email@example.com
-```
+    ```bash title="Bash"
+    user.name=John Doe
+    user.email=john.doe@email.com
+    ```

@@ -30,7 +30,10 @@ theme:
 nav:
   - Home: index.md
   - Introduction to Git: set-1-intro-git.md
-  - Installation: set-2-installation.md
+  - Installation:
+      - Windows: set-2a-windows.md
+      - macOS: set-2b-macOS.md
+      - Linux: set-2c-linux.md
   - Basic Commands: set-3-basic-commands.md
   - Introduction to GitHub: set-4-intro-github.md
   - GitHub Setup: set-5-github-setup.md

@@ -2,14 +2,12 @@
 
 Welcome to the installation guide! Choose your platform below.
 
-## Windows Installation
+## [Windows Installation](set-2a-windows.md)
 
-Instructions for installing on [Windows](set-2a-windows.md).
+---
 
-## macOS Installation
+## [macOS Installation](set-2b-macOS.md)
 
-Instructions for installing on [macOS](set-2b-macOS.md).
+---
 
-## Linux Installation
-
-Instructions for installing on [Linux](set-2c-linux.md).
+## [Linux Installation](set-2c-linux.md)

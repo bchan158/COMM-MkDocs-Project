@@ -1,8 +1,8 @@
-# Introduction to Github
+# Introduction to GitHub
 
 ## Overview
 
-### What is Github?
+### What is GitHub?
 
 GitHub is a web-based platform that makes it easier to manage and share coding projects. It builds on Git, a tool that helps track changes to files, by providing a place where projects can be stored and worked on from anywhere. Imagine it as an online workspace where multiple people can collaborate on the same project without losing track of who made what changes.
 
@@ -14,7 +14,7 @@ GitHub is a web-based platform that makes it easier to manage and share coding p
 
 By end of this guide, you will be able to:
 
-- **Create Github account** – A platform to store, share, and track changes in your coding projects.
+- **Create GitHub account** – A platform to store, share, and track changes in your coding projects.
 - **Create and manage repositories** – Set up and organize your projects on GitHub.
 - **Clone repositories** – Copy a project from GitHub to your computer to work on it.
 - Commit changes – Save your work and note the changes you’ve made.
@@ -26,9 +26,9 @@ It may seem overwhelming at first, but don’t worry - step-by-step guides are a
 
 ## Register an Account
 
-Before you begin, you must register an account to use Github. There are multiple ways to sign-up for Github, but for this specific example, we will guide you how to register with an **email**.
+Before you begin, you must register an account to use GitHub. There are multiple ways to sign-up for GitHub, but for this specific example, we will guide you how to register with an **email**.
 
-1.  Open Github's homepage, and type in your email provided in the box on the center of the page.
+1.  Open GitHub's homepage, and type in your email provided in the box on the center of the page.
     ![github-signup](assets/images/sign-up-github.jpg)
     This will take you to the page with the registration form.
 

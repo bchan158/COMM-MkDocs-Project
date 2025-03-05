@@ -1,5 +1,6 @@
 site_name: Getting Started with Git and GitHub
 site_url: "https://bchan158.github.io/COMM-MkDocs-Project/"
+repo_url: "https://github.com/bchan158/COMM-MkDocs-Project"
 theme:
   name: material
   font:

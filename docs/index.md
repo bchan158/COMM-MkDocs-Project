@@ -31,7 +31,7 @@ This documentation is structured as follows:
 
 1. **[Introduction to Git](set-1-intro-git.md)** – What is Git, and why should you use it?
 2. **[Installing Git](set-2-installation.md)** – Step-by-step installation guide for Windows, macOS, and Linux.
-3. **[Basic Git Commands](set-3-basic-commands.md)** – Learn essential Git commands for version control.
+3. **[Basic Git Commands](set-3-basic-git-commands.md)** – Learn essential Git commands for version control.
 4. **[Introduction to GitHub](set-4-intro-github.md)** – What is GitHub, and what are the benefits of using it?
 5. **[Setting Up GitHub](set-5-github-setup.md)** – How to create and manage repositories on GitHub.
 6. **[Troubleshooting](troubleshooting.md)** – Common issues and how to fix them.

@@ -37,7 +37,7 @@ nav:
       - Linux: set-2c-linux.md
   - Basic Git Commands: set-3-basic-git-commands.md
   - Introduction to GitHub: set-4-intro-github.md
-  - GitHub Setup: set-5-github-setup.md
+  - GitHub Setup: set-5-basic-github.md
   - Troubleshooting: troubleshooting.md
   - Glossary: glossary.md
 

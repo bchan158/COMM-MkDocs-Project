@@ -1,12 +1,16 @@
 # How to Install and Set Up Git on Linux
 
+## Overview
+
 Git is a widely used version control system that allows developers to track changes in their code efficiently. This guide provides step-by-step instructions on how to install and configure Git on Linux.
 
 ## Step 1: Install Git on Linux
 
 1 - **Open** a terminal using a keyboard shortcut (Ctrl + Alt + T):
 
-![Linux Terminal](assets/images/open-terminal-linux.png)
+!!! example "Example"
+
+    ![Linux Terminal](assets/images/open-terminal-linux.png)
 
 ---
 
@@ -156,7 +160,7 @@ git config --global user.email "your-email@example.com"
 git config --list
 ```
 
-!!! success "Success: You should see something like this"
+!!! example "Example"
 
     ```bash title="Bash"
     user.name=John Doe

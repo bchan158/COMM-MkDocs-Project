@@ -1,29 +1,28 @@
 # Introduction
 
-Welcome to the **Git & GitHub Setup Guide**! This documentation is designed to help you get up and running with **Git** and **GitHub**, whether you're a beginner or looking to refine your workflow.
+Welcome to the **Git & GitHub Setup Guide**! This documentation is designed to help you get up and running with [_Git_](https://git-scm.com/){:target="\_blank"} and [_GitHub_](https://github.com/){:target="\_blank"}, whether you're a beginner or looking to refine your workflow.
 
 ## Skill Level: Beginner
 
-- **No Prior Experience Required.** We’ll start **Git** and **GitHub** from scratch, explaining everything step by step.
+- _No Prior Experience Required._ We’ll start Git and GitHub from scratch, explaining everything step by step.
 
 ## What You'll Learn
 
 By following this guide, you will:
 
-- Understand the basics of **Git** and **GitHub**.
-- Install and configure **Git** on your local machine.
-- Learn essential **Git commands** for version control.
-- Sign up a **GitHub** account.
-- Create and manage repositories on **GitHub**.
-- Collaborate effectively using **branches, pull requests, and merges**.
+- Understand the basics of Git and GitHub.
+- Install and configure Git on your local machine.
+- Learn essential Git commands for version control.
+- Sign up a [_GitHub_](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home){:target="\_blank"} account.
+- Create and manage repositories on GitHub.
+- Collaborate effectively using _branches, pull requests, and merges_.
 
 ## Prerequisites
 
 Before you begin, ensure you have:
 
-- A basic understanding of the command line (recommended).
-- **Visual Studio Code** installed on the computer. ([Download here](https://code.visualstudio.com/Download)).
-- A computer with internet access.
+- A fundamental understanding of how to access the Command Prompt or PowerShell in Windows, and the Terminal in macOS or Linux, is essential.
+- [_Visual Studio Code_](https://code.visualstudio.com/Download){:target="\_blank"} installed on your computer to utilize Git for your software development projects. (Recommended)
 
 ## How This Guide is Organized
 
@@ -41,9 +40,11 @@ This documentation is structured as follows:
 
 These instructions use the following typographic conventions:
 
-| Convention Explanation                                                                                     | Examples                                     |
-| ---------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
-| Commands & Actions: Verbs in bold indicate the commands or actions you need to follow in the instructions. | **Click, Enter, Type, Return, Open, Select** |
+| Convention Explanation                                                                          | Examples                              |
+| ----------------------------------------------------------------------------------------------- | ------------------------------------- |
+| Actions: Verbs in bold indicate the commands you need to follow in the instructions.            | **Open, Type**                        |
+| Emphasis and Product Terminology: Words in italics are used to highlight key terminology names. | _Git, GitHub, Install_                |
+| Code Blocks: Use to copy & paste commands                                                       | <pre><code>git --version</code></pre> |
 
 ## Admonitions
 
@@ -79,4 +80,4 @@ This guide uses success, warning, and note messages to provide additional inform
 
 ## Let's Get Started!
 
-Proceed to the next section to learn more about **Git and Version Control**.
+Proceed to the next section to learn more about [_Git_](set-1-intro-git.md).

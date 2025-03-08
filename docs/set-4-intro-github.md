@@ -28,7 +28,7 @@ It may seem overwhelming at first, but don’t worry - step-by-step guides are a
 
 Before you begin, you must register an account to use GitHub. There are multiple ways to sign-up for GitHub, but for this specific example, we will guide you how to register with an **email**.
 
-1.  Open GitHub's homepage, and type in your email provided in the box on the center of the page.
+1.  **Open** GitHub's homepage, and **type** in your email provided in the box on the center of the page.
     ![github-signup](assets/images/sign-up-github.jpg)
     This will take you to the page with the registration form.
 
@@ -44,7 +44,7 @@ Before you begin, you must register an account to use GitHub. There are multiple
 
 !!! Success "Success"
 
-    You've successfully created a github account!
+    You've successfully created a GitHub account!
 
 ## Website Overview
 

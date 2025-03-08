@@ -13,3 +13,7 @@ Git is a powerful tool that helps you manage changes to your projects, whether y
 ## Why It Matters
 
 Imagine writing a book with no drafts or edit history and collaborating becomes a mess. Git solves this for software development, letting coders track every tweak to their work with ease.
+
+## Conclusion
+
+Now that you have a basic understanding of Git and its benefits, proceed to the [_Git Installation_](set-2-installation.md) guide for different operating systems, or jump directly to the [_Installation for Windows_](set-2a-windows.md) section.

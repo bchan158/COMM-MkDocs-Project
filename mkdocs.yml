@@ -66,3 +66,5 @@ markdown_extensions:
 
 extra_css:
   - assets/style.css
+
+copyright: Copyright &copy; 2025 Ben Chan & Kyle You

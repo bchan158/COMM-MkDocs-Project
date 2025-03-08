@@ -14,7 +14,7 @@ Git is a popular version control system that allows developers to track changes 
 
 ## Step 1: Install Git on macOS
 
-1 - **Open** a terminal by **typing** "Terminal" in _Spotlight_:
+1 - **Open** a terminal by **typing** _Terminal_ in Spotlight:
 
 !!! example "Example"
 

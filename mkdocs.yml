@@ -8,6 +8,7 @@ theme:
     code: Red Hat Mono
   icon:
     logo: fontawesome/solid/code-branch
+  favicon: assets/images/code-branch-solid.svg
   features:
     - navigation.footer
     - content.code.copy

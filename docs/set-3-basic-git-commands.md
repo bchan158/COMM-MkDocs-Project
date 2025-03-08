@@ -227,3 +227,7 @@ git pull origin <branch_name>
 ```sh
 git fetch
 ```
+
+## Conclusion
+
+Congratulations! You've learned the basics of Git commands. Continue your journey by exploring the [_Introduction to GitHub_](set-4-intro-github.md) section to dive deeper into collaborative development.

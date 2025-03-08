@@ -67,4 +67,4 @@ The left sidebar is the user profile and repository pages shows a list of reposi
 
 ## Conclusion
 
-You're all set to start using GitHub! With the knowledge of how to navigate the platform, you'll be able to explore GitHub and make the most of it on your coding journey.
+You're all set to start using GitHub! With the knowledge of how to navigate the platform, you'll be able to explore GitHub and make the most of it on your coding journey. Proceed to the [_GitHub Setup_](set-5-basic-github.md) section to get started.

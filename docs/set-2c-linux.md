@@ -166,3 +166,7 @@ git config --list
     user.name=John Doe
     user.email=john.doe@email.com
     ```
+
+## Conclusion
+
+Congratulations! You've successfully installed and set up Git on your Linux operating system. Proceed to the [_Basic Git Commands_](set-3-basic-git-commands.md) section.

@@ -24,9 +24,23 @@ Git is a popular version control system that allows developers to track changes 
 
 2 - Install Homebrew:
 
+- **Copy & Paste** the command line below into your Terminal.
+
 ```bash title="Bash"
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
+
+- Enter your computer's login password to proceed with the installation.
+
+!!! example "Example"
+
+    ![macOS-login-password](assets/images/macOS-enter-password.png)
+
+- Follow the on-screen instructions to complete the installation.
+
+!!! success "Success!"
+
+    ![macOS-homebrew-completed](assets/images/macOS-homebrew-completed.png)
 
 ---
 

@@ -7,8 +7,7 @@
 
 **Step 2: Run the Git Installer**
 
-1. **Open** the downloaded .exe file.
-2. **Click** Next to begin the installation process.
+- Follow the on-screen instruction to begin the installation.
 
 **Step 3: Configure Installation Options**
 
@@ -21,19 +20,49 @@ During the installation, you will be prompted to select various options:
 - Line Ending Conversions: Choose Checkout Windows-style, commit Unix-style line endings (recommended for cross-platform projects).
 - Configuring the Terminal Emulator: Choose Use MinTTY (default).
 
-**Click** _Install_ and wait for the process to complete.
-
 **Step 4: Verify Installation**
 
-1. **Open** Command Prompt.
+- **Open** Command Prompt.
 
-```sh
-# Verify Installation
+```powershell
 git --version
 ```
 
-If Git is installed correctly, it will return the version number.
+!!! success "Success!"
 
-**Step 5: Configure Git**
+    ```powershell
+    git version 2.x.x
+    ```
 
-Set up your username and email (these will be used for commits):
+## Step 2: Configure Git
+
+After installing Git, you need to configure your user details.
+
+1 - Set your name:
+
+```powershell
+git config --global user.name "Your Name"
+```
+
+---
+
+2 - Set your email:
+
+```powershell
+git config --global user.email "your-email@example.com"
+```
+
+---
+
+3 - Verify the configuration:
+
+```powershell
+git config --list
+```
+
+!!! example "Example"
+
+    ```powershell
+    user.name=John Doe
+    user.email=john.doe@email.com
+    ```

@@ -62,13 +62,13 @@ This guide uses success, warning, and note messages to provide additional inform
 
     Warns of actions causing data loss. Appears in a red box with a lightning icon and "Danger."
 
-!!! info "Info"
-
-    Shares general information or context. Displayed in a teal box with an info icon and "Info."
-
 !!! tip "Tip"
 
     Offers helpful advice or best practices. Displayed in a light green box with a flame icon and "Tip."
+
+!!! info "Info"
+
+    Shares general information or context. Displayed in a teal box with an info icon and "Info."
 
 !!! note "Note"
 

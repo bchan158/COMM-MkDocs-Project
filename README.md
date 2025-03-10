@@ -22,3 +22,5 @@ We divided the work between Git and GitHub topics. One cohort member focused on 
 We worked together using Git and GitHub to keep track of our changes and avoid conflicts. We wrote the content in simple Markdown, and then used MkDocs to organize and display everything in a clean format. Our aim was to make the guide easy to follow for beginners who are new to Git and GitHub.
 
 # Conclusion
+
+To wrap things up, this guide was made to help beginners get comfortable with Git and GitHub. We broke down the key concepts, like installation and using basic commands, into easy-to-understand steps. The aim was to make sure even first-time users could get the hang of using these tools without any struggles.
